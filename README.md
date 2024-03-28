@@ -2,7 +2,7 @@
 
 - 👾Estudante de programação
 - 📖Uso esse espaço para compartilhar meus códigos e minha evolução
-- ⏳Tenho 15 anos e amo jogos, séries e filmes
+- ⏳Tenho 16 anos e amo explorar o mundo da informática
 
 ### Conecte-se comigo
 
