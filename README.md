@@ -1,9 +1,9 @@
 # 👋🏻 José Rondiney P. Mamede
 
 - 👾Estudante de programação
-- 📖Uso esse espaço para compartilhar meus códigos e minha evolução
-- ⏳Tenho 16 anos e amo explorar o mundo da informática
-
+- 📖Uso esse espaço para compartilhar meus códigos e meus projetos
+- ⏳Tenho 17 anos
+  
 ### Conecte-se comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:rondineypatricio@gmail.com)
