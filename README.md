@@ -1,8 +1,4 @@
 # 👋🏻 José Rondiney P. Mamede
-
-- 👾Estudante de programação
-- 📖Uso esse espaço para compartilhar meus códigos e meus projetos
-- ⏳Tenho 17 anos
   
 ### Conecte-se comigo
 
